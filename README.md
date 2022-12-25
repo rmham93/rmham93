@@ -7,6 +7,7 @@
 - Master at Gebze Technical University
 - PhD at Ege University - ...
 
+PS: I know I am quite messy here .. Sorry for that :/
 <!---
 rmham93/rmham93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

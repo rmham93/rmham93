@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, painting but especially algorithms and machine learning
 - 🌱 I’m currently learning DL, ML i mean AI :)
 - I am a PhD student, willing to learn anything .. 
-- 📫 How to reach me fatma.ridaoui@gmail.com
+- 📫 Contact me fatma.ridaoui@gmail.com
 - Bachelor at Dokuz Eylül University
 - Master at Gebze Technical University
 - PhD at Ege University - ...

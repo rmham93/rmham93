@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning DL, ML i mean AI :)
 - I am a PhD student, willing to learn anything .. 
 - 📫 Contact me fatma.ridaoui@gmail.com
-- Bachelor at Dokuz Eylül University
-- Master at Gebze Technical University
-- PhD at Ege University - ...
+- Bachelor ~ Dokuz Eylül University Computer Eng.
+- Master ~ Gebze Technical University Computer Eng.
+- PhD ~ Ege University - ... Computer Eng.
 
 PS: I know I am quite messy here .. Sorry for that :/
 <!---

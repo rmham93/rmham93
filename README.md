@@ -1,4 +1,4 @@
-![@developersmile](https://github.com/rmham93/rmham93/assets/26356167/46e2adc0-2d5a-438b-a42d-ffececbf88cf)
+
 
 - 👋 Hi, I’m Fatma
 - 👀 I’m interested in coding, painting but especially algorithms and machine learning
